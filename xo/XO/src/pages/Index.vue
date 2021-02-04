@@ -1,6 +1,5 @@
 <template>
   <div>
-  Boymurodov
   </div>
 </template>
 
